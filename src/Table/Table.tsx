@@ -1,5 +1,5 @@
 import * as React from "react";
-import { renderTable } from "./";
+import { renderTable } from "./renderTable";
 import { Data } from "../App";
 
 type Props = {
